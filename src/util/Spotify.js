@@ -1,6 +1,8 @@
 
 
 const clientId = process.env.REACT_APP_API_KEY;
+
+
 const redirectUri = "http://abrupt-mine.surge.sh";
 
 
