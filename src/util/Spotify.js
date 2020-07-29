@@ -1,9 +1,9 @@
-
+console.log(process.env.REACT_APP_API_KEY)
 
 const clientId = process.env.REACT_APP_API_KEY;
 
 
-const redirectUri = "http://abrupt-mine.surge.sh";
+const redirectUri = "https://jammming.sjellen.now.sh/";
 
 
 let accessToken;
