@@ -1,6 +1,6 @@
-console.log(process.env.REACT_APP_API_KEY)
 
-const clientId = process.env.REACT_APP_API_KEY;
+
+const clientId = process.env.REACT_APP_API_KEY
 
 
 const redirectUri = "https://jammming.sjellen.now.sh/";
