@@ -3,7 +3,7 @@
 const clientId = process.env.REACT_APP_API_KEY
 
 
-const redirectUri = "https://jammming.sjellen.now.sh/";
+const redirectUri = "https://keen-cori-41fb53.netlify.app/";
 
 
 let accessToken;
